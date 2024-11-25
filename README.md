@@ -2,6 +2,7 @@
 
 ## Overview
 This project implements a vehicle speed detection system using computer vision techniques. It can detect vehicles, track their movements, and calculate their speeds within a specified region of interest.
+fine-tune-yolo.ipynb contains the code used to fine-tune YOLO for extreme weather conditions, including snow, rain, and fog.
 
 ## Installation
 
